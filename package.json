@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-starter",
+  "version": "1.0.0",
+  "description": "Simple Telegram bot starter built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs",
+    "automation",
+    "starter-template"
+  ],
+  "author": "Devesh Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
